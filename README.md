@@ -4,7 +4,7 @@
 
 
 ## Small stuff about me:
-I am an informatic engineering graduate from [**FEUP**][website] <br>
+I am an informatics engineering graduate from [**FEUP**][website] <br>
 Some of my interests include game development and general software development, mainly for back-end applications. I am always seeking new ways to enhance my skills and optimize my coding practices.<br>
 In my free time, I like to play games and go out with friends, as well as play card games at my local game store (mainly Yu-Gi-Oh).<br>
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
